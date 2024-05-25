@@ -2969,7 +2969,7 @@
     },
     "Chingford Hatch": {
         "Contributor": "ImBenji",
-        "Location": "51.420389, -0.1287668"
+        "Location": "51.618849324988126, 0.008615860859173277"
     },
     "Highams Park": {
         "Contributor": "ImBenji",
@@ -5017,7 +5017,7 @@
     },
     "Acton": {
         "Contributor": "ImBenji",
-        "Location": "51.50837199999999, -0.27444"
+        "Location": "51.50600598150876, -0.266961842060624"
     },
     "Willesden Green": {
         "Contributor": "ImBenji",
@@ -5239,6 +5239,10 @@
         "Contributor": "ImBenji",
         "Location": "51.5971722, -0.1098021"
     },
+    "/": {
+        "Contributor": "ImBenji",
+        "Location": "51.4309209, -0.0936496"
+    },
     "Hither Green Station": {
         "Contributor": "ImBenji",
         "Location": "51.4519061, -0.0007435"
@@ -5262,5 +5266,9 @@
     "Limehouse": {
         "Contributor": "ImBenji",
         "Location": "51.5110598, -0.0366652"
-    }
+    },
+    "Acton Town": {
+        "Contributor": "ImBenji",
+        "Location": "51.503057, -0.280303"
+    },
 }
